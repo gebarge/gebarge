@@ -18,7 +18,7 @@ I’m an Economics graduate from Davidson College with a deep passion for data a
 - **Frameworks and Tools:** Scikit-learn, Tableau, Excel
 - **Sports Analytics**: Providing data-backed insights to optimize player performance and team strategies.
 
-### Featured Projects
+### A Few Featured Projects
 - **Predicting Loan Defaults with Neural Networks:** Developed as part of the Modern Analytics course at Duke University, this project applies neural networks using PyTorch to predict loan defaults. The repository includes well-documented code, a detailed exploration of the dataset, and a performance comparison against traditional machine learning models.
 - **Predicting Loan Defaults with Machine Learning Techniques:** Complementary to the neural network project, this analysis uses classical machine learning methods, such as logistic regression and random forests, to predict loan defaults. The project was completed during the Data Science course at Duke University, and highlights feature engineering, model evaluation, and comparative insights between algorithms.
 - **Econometrics Final Paper and Code:** This project features an econometric analysis from my final paper at Davidson College. The theory under examination throughout the paper is whether there is a relationship between median home values across the United States as it relates to price level, or merely inflation. The repository includes the research paper, datasets, and R code used for statistical modeling. The focus is on interpreting results, addressing biases, and communicating findings effectively.
